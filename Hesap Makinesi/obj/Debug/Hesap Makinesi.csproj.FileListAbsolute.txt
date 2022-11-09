@@ -1,0 +1,20 @@
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\EREN\Desktop\HESAP MAKİNESİ\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\EREN\Desktop\Görsel Programlama\201104078_EREN _ELÇİ_Etkinlik1\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
